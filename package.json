@@ -1,0 +1,28 @@
+{
+  "name": "ci-cd_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src",
+    "test": "jest src/app.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/grvTricon/CI-CD_assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grvTricon/CI-CD_assignment/issues"
+  },
+  "homepage": "https://github.com/grvTricon/CI-CD_assignment#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1",
+    "supertest": "^6.3.3"
+  }
+}
